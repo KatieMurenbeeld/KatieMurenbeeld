@@ -9,5 +9,5 @@ I am a PhD candidate at Boise State University where I work within the Lab for E
   - How to build a website through codeacademy
   - Machine learning through the Radiant MLHub 
 - 📫 How to reach me: katiemurenbeeld@u.boisestate.edu
-- ⚡ Fun fact: I am a huge Georgia football fan. Go DAWGS! 
+- ⚡ Fun fact: I am a huge Georgia football fan  Go DAWGS! 
 
