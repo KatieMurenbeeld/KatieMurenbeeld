@@ -1,7 +1,12 @@
 ### Hello!
 
 
-I am a PhD candidate at Boise State University where I work within the Lab for Ecohydrological Applications and Forecasting [(**LEAF**)](https://www.boisestate.edu/leaf/). I am interested in the interdisciplinary work of Coupled Human and Natural Systems. Broadly speaking, I am interested in the direct and indirect ways in which environmental and energy policy (attention, laws, and regulation) can impact land surface processes, specifically for forested ecosystems.  
+I am a PhD candidate at Boise State University where I work within the Lab for Ecohydrological Applications and Forecasting [(**LEAF**)](https://www.boisestate.edu/leaf/). I work in Coupled Human and Natural Systems. Broadly speaking, I am interested in the direct and indirect ways in which environmental and energy policy (attention, laws, and regulation) can impact land surface processes, specifically for forested ecosystems. 
+
+In my research I have: 
+ 1. Quantified some of the temporal aspects of forest management in the wester US with a focus on project delays
+ 2. Used the project delay data to inform multiple logging scenarios within a land surface model 
+ 3. Worked to parameterized the land surface model for use in temperate, evergreen forests:s 
 
 - I’m currently working on: 
   - defending my dissertation "Deviating from the Plan: Assessing the Impact of Forest Management Delays on Forest Structure and Function" 
