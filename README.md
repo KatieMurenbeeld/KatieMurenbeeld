@@ -6,9 +6,9 @@ I am a PhD candidate at Boise State University where I work within the Lab for E
 ![What do forest managers need to consider during planning?](IMAGES/TEDDY_FOREST_MNGT_v02-01.jpg)
 
 In my research I have: 
- 1. Quantified some of the temporal aspects of forest management in the wester US with a focus on project delays
+ 1. Quantified temporal aspects of forest management in the western US with a focus on project delays
  2. Used the project delay data to inform multiple logging scenarios within a land surface model (the [Community Terrestrial Systems Model](http://github.com/ESCOMP/CTSM) with [FATES](http://github.com/NGEET/fates)) 
- 3. Worked to parameterized the land surface model for use in temperate, evergreen forests:s 
+ 3. Worked to parameterize the land surface model for use in temperate, evergreen forests 
 
 - I’m currently working on: 
   - defending my dissertation "Deviating from the Plan: Assessing the Impact of Forest Management Delays on Forest Structure and Function" 
