@@ -3,7 +3,7 @@
 
 I am a PhD candidate at Boise State University where I work within the Lab for Ecohydrological Applications and Forecasting [(**LEAF**)](https://www.boisestate.edu/leaf/). I work in Coupled Human and Natural Systems. Broadly speaking, I am interested in the direct and indirect ways in which environmental and energy policy (attention, laws, and regulation) can impact land surface processes, specifically for forested ecosystems. 
 
-![What do forest managers need to consider during planning?](https://github.com/KatieMurenbeeld/KatieMurenbeeld/IMAGES/TEDDY_FOREST_MNGT_v02.jpg)
+![What do forest managers need to consider during planning?](https://github.com/KatieMurenbeeld/KatieMurenbeeld/IMAGES/TEDDY_FOREST_MNGT_v02-01.jpg)
 
 In my research I have: 
  1. Quantified some of the temporal aspects of forest management in the wester US with a focus on project delays
