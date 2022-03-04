@@ -11,7 +11,7 @@ In my research I have:
  3. Worked to parameterize the land surface model for use in temperate, evergreen forests 
 
 - I’m currently working on: 
-  - defending my dissertation "Deviating from the Plan: Assessing the Impact of Forest Management Delays on Forest Structure and Function" 
+  - Revising chapters from my dissertation for publication 
 - I’m currently learning:
   - How to build a website through codeacademy
   - Machine learning through the Radiant MLHub 
