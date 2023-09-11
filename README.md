@@ -4,4 +4,3 @@ I am a postdoctoral researcher at Boise State University where I work within the
   - A spatial analysis of the time to complete environmental impact assessments in the United States Forest Service (USFS)
 - How to reach me: katiemurenbeeld@boisestate.edu
 - Fun fact: I am a huge Georgia football fan 🏈 Go DAWGS! 
-
